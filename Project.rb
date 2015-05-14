@@ -3,7 +3,7 @@ require 'YamlFile.rb'
 
 module XBS
 
-class Project.rb
+class Project
 	def initialize directory
 	end
 end
